@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: sepaen/site
-  branch: master
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
