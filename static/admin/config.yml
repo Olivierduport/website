@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: /Users/dups/Desktop/Code/GitHub/website
+  repo: website
   branch: main
 
 media_folder: static/assets
