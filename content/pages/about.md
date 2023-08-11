@@ -1,8 +1,9 @@
 ---
 type: about
 ---
-Bureau Sepän is an interdisciplinary creative agency that addresses cultural needs on a local and global scale.
-
+Olivier Duport is a creative director and photographer based in Paris and Athens.
+He works at the crossroads of editorial, photography, user experience, graphic design and artistic direction.
+For additional information, don't hesitate to get in touch.
 </br>
 
 We are working with a global list of clients and creative talents to deliver unique enhanced cultural products. 
