@@ -1,7 +1,7 @@
 ---
 type: contact
 title: "Olivier Duport "
-email: hello@olivierduport.fr
+email: <ins>hello@olivierduport.fr</ins>
 phone:
   - number: "+33632759893"
 social:
