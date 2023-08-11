@@ -1,14 +1,10 @@
 ---
 type: contact
-title: Bureau Sepän
-email: hi@sepaen.com
+title: "Olivier Duport "
+email: hello@olivierduport.fr
 phone:
-  - number: '+33632759893'
-  - number: '+41779412662'
+  - number: "+33632759893"
 social:
-  - platform: Facebook
-    url: 'https://facebook.com/sepaen'
   - platform: Instagram
-    url: 'https://www.instagram.com/sepaen/'
+    url: https://www.instagram.com/olivierthomashenri/
 ---
-
