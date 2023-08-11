@@ -2,10 +2,10 @@
 type: project
 published: true
 date: 2018-07-08T00:00:00.000Z
-title: 'Benga, A Kenyan Kaleidoscope - Exhibition'
-fulltitle: 'Benga, A Kenyan Kaleidoscope  - Exhibition'
-subtitle: ''
-color: '#9b6f65'
+title: "Fiat lux "
+fulltitle: Fiat Lux - Book
+subtitle: ""
+color: "#9b6f65"
 cover: /assets/bkk-2.jpg
 images:
   - image: /assets/exposition1.jpg
