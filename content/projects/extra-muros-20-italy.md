@@ -2,9 +2,9 @@
 type: project
 published: true
 date: 2020-12-02T10:53:14.648Z
-title: Extra Muros 20 - Italy
-fulltitle: Extra Muros 20 - Italy
-subtitle: " Art Residency "
+title: Fiat Lux
+fulltitle: Fiat Lux - Photography Book
+subtitle: Photography Book
 color: "#b19964"
 cover: /assets/40em20-1-.jpeg
 images:
